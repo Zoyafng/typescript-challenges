@@ -1,0 +1,22 @@
+{
+  "name": "typescript-challenges",
+  "version": "1.0.0",
+  "description": "typescript-challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoyafng/typescript-challenges.git"
+  },
+  "author": "Zoyafng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zoyafng/typescript-challenges/issues"
+  },
+  "homepage": "https://github.com/Zoyafng/typescript-challenges#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
